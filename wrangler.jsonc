@@ -1,0 +1,17 @@
+{
+    
+    "name": "software-active",
+    "compatibility_date": "2025-05-08",
+    "main": "worker.js",
+    "type": "javascript",
+    "env": {
+        "username": "admin",
+        "password": "1"
+    }, 
+    "kv_namespaces": [
+        {
+        "binding": "SOFTWARE_LICENSE_KV",
+        "id": "1a66ebfedb5645fe8b42bb749bd459d7"
+        }
+    ]
+  }
